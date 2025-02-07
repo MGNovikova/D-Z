@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\Мишечка\source\repos\6.03\main.cpp(39,19): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
-C:\Users\Мишечка\source\repos\6.03\main.cpp(39,37): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
-  6.03.vcxproj -> C:\Users\Мишечка\source\repos\6.03\x64\Debug\6.03.exe
